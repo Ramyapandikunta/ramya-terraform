@@ -1,0 +1,4 @@
+*.terr*
+*.tfstate
+*.tfstate.backup
+*.lock.hcl

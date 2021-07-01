@@ -1,0 +1,9 @@
+region = "ap-south-1"
+ami ="ami-011c99152163a87ae"
+int_type = "t2.micro"
+subnet = "subnet-13c72b78"
+sec_grp = ["sg-dea88ca4"]
+instance_count = 2
+key_pair = "9AMBATCH"
+profile = "ramya"
+instance_name = "server"
